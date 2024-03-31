@@ -12,3 +12,5 @@ This is the python file that gets result of calibration of Chess board video & c
  -1.85069399e-02]
 
 ## Distortion Correction Result
+[[img/c20be879726bcfdfdf65a841f03b0a0c_MD5.gif|Open: calibration_and_distortionCorrection (1).gif]]
+![[img/c20be879726bcfdfdf65a841f03b0a0c_MD5.gif]]
